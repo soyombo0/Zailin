@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B4B5169299566DD0075C042 /* MarketTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4B5168299566DD0075C042 /* MarketTableView.swift */; };
 		3B7F959729942AC800B7EA33 /* MarketViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7F959629942AC800B7EA33 /* MarketViewModel.swift */; };
 		3B7F959929942AD000B7EA33 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7F959829942AD000B7EA33 /* Market.swift */; };
 		3BCB86CE2994212D007C5607 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCB86CD2994212D007C5607 /* AppDelegate.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		0EAB389FE310F306D0AB261E /* Pods-Zailin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Zailin.debug.xcconfig"; path = "Target Support Files/Pods-Zailin/Pods-Zailin.debug.xcconfig"; sourceTree = "<group>"; };
+		3B4B5168299566DD0075C042 /* MarketTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketTableView.swift; sourceTree = "<group>"; };
 		3B7F959629942AC800B7EA33 /* MarketViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketViewModel.swift; sourceTree = "<group>"; };
 		3B7F959829942AD000B7EA33 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
 		3BCB86CA2994212D007C5607 /* Zailin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Zailin.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +82,7 @@
 				3BCB86CD2994212D007C5607 /* AppDelegate.swift */,
 				3BCB86CF2994212D007C5607 /* SceneDelegate.swift */,
 				3BCB86D12994212D007C5607 /* ViewController.swift */,
+				3B4B5168299566DD0075C042 /* MarketTableView.swift */,
 				3BCB86D32994212D007C5607 /* Main.storyboard */,
 				3BCB86D62994212E007C5607 /* Assets.xcassets */,
 				3BCB86D82994212E007C5607 /* LaunchScreen.storyboard */,
@@ -221,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B7F959729942AC800B7EA33 /* MarketViewModel.swift in Sources */,
+				3B4B5169299566DD0075C042 /* MarketTableView.swift in Sources */,
 				3BCB86D22994212D007C5607 /* ViewController.swift in Sources */,
 				3BCB86CE2994212D007C5607 /* AppDelegate.swift in Sources */,
 				3BCB86D02994212D007C5607 /* SceneDelegate.swift in Sources */,
